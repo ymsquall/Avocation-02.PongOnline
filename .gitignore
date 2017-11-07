@@ -1,0 +1,17 @@
+.vs
+
+.git
+.svn
+.hg
+*.user
+*.pyc
+*.sln
+*.csproj
+*.unityproj
+/**/Temp/UnityVS_*
+/**/bin/Debug
+/**/bin/Release
+/**/obj/Debug
+/**/obj/Release
+/Library
+/Temp
